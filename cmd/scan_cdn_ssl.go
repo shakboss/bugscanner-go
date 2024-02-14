@@ -52,7 +52,7 @@ func init() {
 	scanCdnSslCmd.Flags().StringVar(&cdnSslFlagScheme, "scheme", "ws://", "request scheme")
 	scanCdnSslCmd.Flags().StringVar(&cdnSslFlagProtocol, "protocol", "HTTP/1.1", "request protocol")
 	scanCdnSslCmd.Flags().StringVar(
-		&cdnSslFlagPayload, "payload", "[method] [path] [protocol][crlf]Host: [bug][crlf]Expect: 101-continue[crlf][crlf]GET- / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf][crlf]", "request payload for sending throught cdn proxy",
+		&cdnSslFlagPayload, "payload", "[method] [path] [protocol][crlf]http://[host] HTTP/1.1[crlf]Host: http://[host][crlf]Connection: keep-alive[crlf][crlf]", "request payload for sending throught cdn proxy",
 	)
 	scanCdnSslCmd.Flags().IntVar(&cdnSslFlagTimeout, "timeout", 3, "handshake timeout")
 	scanCdnSslCmd.Flags().StringVarP(&cdnSslFlagOutput, "output", "o", "", "output result")
